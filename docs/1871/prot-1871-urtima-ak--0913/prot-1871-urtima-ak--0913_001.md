@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1871/prot-1871-urtima-ak--0913/prot-1871-urtima-ak--0913_001.pdf
+---

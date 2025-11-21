@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-records-pdf/1887/prot-1887-janmar-fk--012/prot-1887-janmar-fk--012_060.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1887/prot-1887-janmar-fk--012/prot-1887-janmar-fk--012_060.pdf
 ---

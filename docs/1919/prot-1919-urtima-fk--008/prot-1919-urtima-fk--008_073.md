@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-records-pdf/1919/prot-1919-urtima-fk--008/prot-1919-urtima-fk--008_073.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1919/prot-1919-urtima-fk--008/prot-1919-urtima-fk--008_073.pdf
 ---
