@@ -1,4 +1,4 @@
 ---
 layout: default
-UpRedirect: https://pruto.im.uu.se/riksdagen-records-pdf/1887/prot-1887-majjul-ak--009/prot-1887-majjul-ak--009_040.pdf
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1887/prot-1887-majjul-ak--009/prot-1887-majjul-ak--009_040.pdf
 ---
