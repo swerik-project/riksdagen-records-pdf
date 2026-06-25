@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1939/prot-1939-urtima-fk--018/prot-1939-urtima-fk--018_010.pdf
+---

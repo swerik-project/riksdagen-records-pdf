@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/riksdagen-records-pdf/1918/prot-1918-urtima-fk--002/prot-1918-urtima-fk--002_013.pdf
+---
